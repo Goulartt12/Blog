@@ -14,6 +14,7 @@ A simple blog backend system made with Java Spring Boot
                 "createdAt": "2024-05-18T16:07"
             }
         ]
+}
 ```
 - hashed password
 - DB used: SQL
