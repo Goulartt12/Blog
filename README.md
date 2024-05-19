@@ -15,4 +15,5 @@ A simple blog backend system made with Java Spring Boot
             }
         ]
 ```
+- hashed password
 DB used: SQL
