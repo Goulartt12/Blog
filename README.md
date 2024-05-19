@@ -1,4 +1,5 @@
-req
+# Blog system
+A simple blog backend system made with Java Spring Boot
 ```
  {
         "id": "6257a033-f372-4d9f-af5e-123211ed1d7a",
@@ -14,3 +15,4 @@ req
             }
         ]
 ```
+DB used: SQL
