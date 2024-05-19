@@ -9,8 +9,8 @@ A simple blog backend system made with Java Spring Boot
         "posts": [
             {
                 "id": "4837240c-01ad-4777-bcb1-4914dda7959c",
-                "title": "test",
-                "content": "test",
+                "title": "test title",
+                "content": "test bla bla bla",
                 "createdAt": "2024-05-18T16:07"
             }
         ]
